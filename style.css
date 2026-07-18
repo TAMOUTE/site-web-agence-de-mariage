@@ -130,7 +130,7 @@
       linear-gradient(180deg, rgba(14,10,11,0.28) 0%, rgba(14,10,11,0.42) 45%, rgba(14,10,11,0.99) 100%),
       radial-gradient(ellipse at 25% 15%, rgba(92,18,32,0.32), transparent 60%),
       #1c1516
-      url('iss.jpeg') center 28%/cover no-repeat;
+      url("hero.jpg") center 28%/cover no-repeat;
   }
   .hero-topline{position:absolute;top:140px;left:0;right:0;z-index:2;}
   .hero-topline .container{display:flex;justify-content:space-between;align-items:flex-end;}
